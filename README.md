@@ -21,5 +21,9 @@ Este es el Producto Mínimo Viable (MVP) de una aplicación de clima regional. E
 3. (Opcional) Si usas VS Code, se recomienda usar la extensión **Live Server**.
 
 ## 👤 Autor
-- **Nombre**: [Tu Nombre Aquí]
+- **Nombre**: Maria Jose Muñoz
 - **Módulo**: Desarrollo Frontend - Bootcamp Academy
+
+## 🔗 Enlaces del Proyecto
+- **Repositorio:** [https://github.com/mariamunoz0507/weather-frontend-m2](https://github.com/mariamunoz0507/weather-frontend-m2)
+- **Demo en vivo:** [https://mariamunoz0507.github.io/weather-frontend-m2/]
